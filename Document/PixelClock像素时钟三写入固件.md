@@ -6,14 +6,14 @@
 ### 电脑安装驱动
 - Windows
 	- 国内下载地址
-		- www.wch.cn/downloads/category/67.html?feature=USB%E8%BD%AC%E4%B8%B2%E5%8F%A3&product_name=CH347
+		- https://www.wch.cn/downloads/category/67.html?feature=USB%E8%BD%AC%E4%B8%B2%E5%8F%A3&product_name=CH347
 	- Github下载地址
-		- github.com/leezicai/PixelClock
+		- https://github.com/leezicai/PixelClock
 - Mac
 	- 国内下载地址
-		- www.wch.cn/downloads/category/67.html?feature=USB%E8%BD%AC%E4%B8%B2%E5%8F%A3&product_name=CH347
+		- https://www.wch.cn/downloads/category/67.html?feature=USB%E8%BD%AC%E4%B8%B2%E5%8F%A3&product_name=CH347
 	- Github下载地址
-		- github.com/leezicai/PixelClock
+		- https://github.com/leezicai/PixelClock
 
 ### 下载固件
 - TestPixel_IO06_1024.bin
