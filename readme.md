@@ -6,12 +6,8 @@
 
 ### 闲鱼: 小新数码乐园. 欢迎支持. 材料与PCB均兼容原版外壳.
 
-- [闲鱼地址](https://m.tb.cn/h.gHUBSjD?tk=fwsg3jWDiOH MF6563)
-  
-  - ![闲鱼地址图片](Imags/闲鱼-全部商品-地址.png)
-
+- [闲鱼地址](https://m.tb.cn/h.gHUBSjD?tk=fwsg3jWDiOH)
 - 微信小程序闲鱼地址(发送聊天框后点击打开)
-  
   - #小程序://闲鱼/EybCRYfAMwJbfsb
 
 ## 目录
