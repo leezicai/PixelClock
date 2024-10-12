@@ -79,8 +79,9 @@
 - PCB地址和Gerber文件
   - 立创开源PCB地址
     - https://oshwhub.com/lixiaoming1988/pixelclock-xiang-su-shi-zhong-kai-yuan-pix24-o
-  - Gerber文件下载
-    - https://image.lceda.cn/oshwhub/project/attachments/b8bf7a62fd5248c09a8d2dffb12af030.zip
+  - Gerber文件下载(Gerber文件夹内)
+    - https://gitee.com/leezicai/PixelClock
+    - https://github.com/leezicai/PixelClock
 
 ### 主控制PCB
 
@@ -91,8 +92,9 @@
 - PCB地址和Gerber文件
   - 立创开源PCB地址
     - https://oshwhub.com/lixiaoming1988/pixelclock-xiang-su-shi-zhong-kai-yuan-pix24-o
-  - Gerber文件下载
-    - https://image.lceda.cn/oshwhub/project/attachments/cc1fe1e35b464ee1b5009aa5416e5e1a.zip
+  - Gerber文件下载(Gerber文件夹内)
+    - https://gitee.com/leezicai/PixelClock
+    - https://github.com/leezicai/PixelClock
 
 ### 主板元件
 
