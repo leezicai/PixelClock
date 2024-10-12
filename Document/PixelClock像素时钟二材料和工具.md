@@ -71,8 +71,8 @@
     - 手工一个一个灯珠去滴锡膏
     - 或钢网10cm * 10cm, 0.18或0.2 mm厚(20元左右)
       - 闲鱼购买地址
-        - https://m.tb.cn/h.gH52CCU?tk=IWeW3j3YzJC CZ3452
-        - 
+        - https://m.tb.cn/h.gH52CCU?tk=IWeW3j3YzJC CZ3452)
+        - ![闲鱼地址](../Imags/闲鱼-钢网和支架-地址.png)
       - 微信小程序闲鱼地址(发送聊天框后点击打开)
         - #小程序://闲鱼/srCXz1jzhugie3n
     - 另有提供钢网固定台8元/个
