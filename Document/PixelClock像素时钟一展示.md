@@ -1,5 +1,4 @@
-# PixelClock像素时钟(一) 
-  展示
+# PixelClock像素时钟(一) 展示
 
 ## 目录
 

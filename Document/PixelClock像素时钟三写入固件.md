@@ -1,5 +1,4 @@
-# PixelClock像素时钟(三)  
-  写入固件
+# PixelClock像素时钟(三) 写入固件
 
 ## 目录
 
