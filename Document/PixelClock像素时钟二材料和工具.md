@@ -2,17 +2,6 @@
 
 ## 目录
 
-### 制作不易, 欢迎点赞 支持购买外壳(其他均可淘宝)
-
-- PixelClock 像素时钟外壳(Pix24-O)
-- EasyMatrix 像素时钟外壳
-  - PixelClock(Pix24-O)主控制版,灯板 可兼容EasyMatrix外壳
-- 闲鱼购买地址
-  - https://m.tb.cn/h.gufoRrv?tk=V0qm3kovEiJ CZ0016
-  - ![闲鱼](../Imags/闲鱼-全部商品-地址.png)
-- 微信小程序闲鱼(发送聊天框后点击打开)
-  - #小程序://闲鱼/EybCRYfAMwJbfsb
-
 ### 外壳(包含外壳 格栅 后盖 组装辅助架)
 
 - 外壳
