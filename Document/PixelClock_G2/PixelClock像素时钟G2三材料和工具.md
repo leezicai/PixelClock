@@ -56,6 +56,8 @@
     - ![PixelClock-灯板购买](../../Imags/PixelClock-灯板购买.png)
 - 灯珠 WS2812B 可编程 35*28规格 幻彩灯珠 至少256颗
   - 0.08*270 = 21.6 元左右
+  - 购买地址
+    - http://e.tb.cn/h.T3hHdYBXYXhUKcF?tk=Or1N3v6kNsx
 - 灯板PCB 96mm*48mm  两块(每块可安装灯珠16*8 =  128个灯珠)
   - 免费打样
 - 焊接灯板工具
