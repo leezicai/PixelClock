@@ -66,6 +66,14 @@
 
 #### [爱发电 打赏](https://afdian.com/a/lizicai/plan)
 
+## LICENSE
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+You may use, modify, and share this code **for non-commercial purposes only**.
+For commercial use, please contact the author.
+
+[LICENSE](LICENSE)
+
 ### 其他说明
 
 项目源自大聪明老师EasyMatrix, 时钟功能参考玩转智能机器人.
