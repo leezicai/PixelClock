@@ -20,7 +20,7 @@
 
 #### [固件Firmware 文件夹](Firmware)
 
-# 像素时钟 PixelClock G2 二代
+# 像素时钟 二代 PixelClock G2
 
 ## 一 像素时钟 PixelClock G2 材料与工具
 
@@ -38,6 +38,8 @@
 
 ### [像素时钟 PixelClock G2 焊接 B站视频](https://www.bilibili.com/video/BV1qCoJYeEjv/)
 
+### [像素时钟 PixelClock G2 外置时钟和钢网灯珠焊接 B站视频](https://www.bilibili.com/video/BV1in5iz1EKM/)
+
 ## 三 像素时钟 PixelClock G2 组装
 
 ### [像素时钟PixelClock G2_组装.md 文档](Document/PixelClock_G2/PixelClock像素时钟G2_组装.md)
@@ -53,7 +55,6 @@
 ### [像素时钟PixelClockG2_写入固件.jpg 图片](Document/PixelClock_G2/PixelClock像素时钟G2_写入固件.jpg)
 
 ### [像素时钟 PixelClock G2 写入固件 B站视频](https://www.bilibili.com/video/BV1JsxmepETZ/)
-
 
 ## 常用文件夹链接
 
