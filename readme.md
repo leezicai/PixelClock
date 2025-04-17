@@ -1,5 +1,7 @@
 # PixelClock 像素时钟
 
+![PixelClock2](Imags/pixelclock2.gif)
+
 #### PixelClock 像素时钟是一款使用ESP32-C3、32x8像素屏、拾音模块、蜂鸣器组装的，具备显示时间 、音乐拾音、闹钟、像素动画功能。
 
 ## 全部开源(模型 PCB 代码开源) 禁止商用, 个人免费
@@ -59,6 +61,10 @@
 ## 常用文件夹链接
 
 #### [驱动Driver 文件夹](Driver)
+
+## 打赏
+
+#### [爱发电 打赏](https://afdian.com/a/lizicai/plan)
 
 ### 其他说明
 
