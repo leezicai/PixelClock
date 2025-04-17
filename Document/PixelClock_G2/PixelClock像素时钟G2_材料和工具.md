@@ -1,0 +1,312 @@
+# PixelClock像素时钟G2(一) 
+  材料和工具
+
+## 目录
+
+### 关于购买链接
+- 闲鱼链接是本人, 欢迎购买外壳
+- 淘宝链接均是商家
+	- 仅做参考
+	- 无法分辨是否是山寨芯片或是拆机芯片
+	- 无法分辨质量
+	- 只能说是 能用 便宜
+
+### 外壳(包含外壳 格栅 后盖)
+- 外壳
+	- 外壳尺寸200 * 45 * 55mm(长 宽 高)
+	- 可安装192mm*48mm 的灯板
+- 黑色格栅
+- 后盖样式
+	- 默认后盖
+- 组装辅助架(非必须)
+	- 作用一: 压螺母时平衡
+	- 作用二: 固定涂了粘胶的亚克力板
+- MakeWorld 地址
+	- 两种外壳, 自由选择 禁止商用, 个人免费
+	- https://linkqr.org/lizicai/pixelclock-g2-3d-1
+	- https://linkqr.org/lizicai/pixelclock-g2-3d-2
+- 闲鱼购买地址
+	- https://linkqr.org/lizicai/pixelclock-g2-xianyu-shell
+	- https://linkqr.org/lizicai/pixelclock-g2-xianyu-shell-2
+
+### 亚克克力板
+- 193.4 * 49.4 * 1.5mm(长 宽 高), 浅黑灰透明(或灰色透明)
+- 请勿购买黑色透明亚克力板, 安装后灯珠很暗
+- 10元左右
+- 闲鱼购买地址
+	- https://linkqr.org/lizicai/pixelclock-g2-xianyu-yakeli
+
+### 均光纸
+- 193.4 * 49.4
+- 均光膜 10元左右. 型号是LGT075-J
+- 或A4纸(可能使用久了会发黄)
+- 或贴车的膜 10元左右
+- 购买外壳或亚克力板会送大家裁剪好的均光膜
+
+### 灯板与灯珠PCB
+- 焊接好的灯珠和灯板
+	- 购买地址
+		- https://linkqr.org/lizicai/pixelclock-g2-xianyu-pixel-16-8
+- 灯珠 WS2812B 可编程 35*28规格 幻彩灯珠 至少256颗
+	- 0.08*270 = 21.6 元左右
+	- 购买地址
+		- http://e.tb.cn/h.T3hHdYBXYXhUKcF?tk=Or1N3v6kNsx
+- 灯板PCB 96mm*48mm  两块(每块可安装灯珠16*8 =  128个灯珠)
+	- 免费打样
+- 焊接灯板工具
+	- 中温(或高温)针筒锡膏
+		- ![闲鱼](../../Imags/中温锡膏.jpg)
+		- (有条件可用无铅锡膏, 上图是示例针筒锡膏)
+		- 无铅中温针筒锡膏价格35元左右(50克样子)
+		- 无钢网需要购买针筒锡膏
+		- 有钢网针筒 瓶装都可
+		- 购买链接
+			- http://e.tb.cn/h.T0mzJe1TWx3MyVd?tk=5OpI3rmIcAk
+	- 加热板(或加热台)
+		- 鹿仙子加热板(20元左右, 稍微有点不安全, 加热快1-2分钟)
+			- 购买链接
+				- http://e.tb.cn/h.TbZ1L4Rr1wKeb43?tk=PYku3rmrEzL
+		- 或数显加热台(140元左右, 安全,加热5分钟)
+		- 
+	- 滴锡
+		- 手工一个一个滴锡膏到灯珠的4个接触点
+		- 或钢网10cm * 10cm, 0.18或0.2 mm厚(20元左右)
+			- 闲鱼购买地址
+				- https://linkqr.org/lizicai/pixelclock-g2-xianyu-net-3d
+		- 另有提供钢网固定台8元/个
+- PCB地址和Gerber文件
+	- 立创开源PCB地址
+		- https://oshwhub.com/lixiaoming1988/pixelclock-pixel-clock-2nd-generation-pix25
+	- Gerber文件下载(Gerber/PixelClock_G2文件夹内)
+		- https://gitee.com/leezicai/PixelClock
+		- https://github.com/leezicai/PixelClock
+
+### 时钟PCB
+- 2种, 可以打板自己焊接, 也可直接淘宝购买时钟模块
+- 淘宝购买DS3231模块
+	- 模块型号一般是DS3231M
+	- 同时需要购买排针XH2.54 4P 一个
+	- DS3231M比DS3231N精度略低一点, 区别不大
+	- 购买地址
+		- http://e.tb.cn/h.gzpvy4a4r47VCCz?tk=G0Uj3pspjBL
+		- http://e.tb.cn/h.gAoD3oImgykuJVj?tk=p6cw3psLnGA
+- 自己焊接
+	- DS3231SN
+		- 购买地址
+			- http://e.tb.cn/h.gzu57b2LKEorWuZ?tk=Jx6K3psHzju
+			- http://e.tb.cn/h.gA2KyqGkF2fyG6s?tk=V8qo3psuYcI
+			- http://e.tb.cn/h.gA2qocg4gG3hzhY?tk=kVTp3psup0S 
+	- 时钟PCB
+		- Gerber文件下载(Gerber/PixelClock_G2文件夹内)
+			- https://gitee.com/leezicai/PixelClock
+			- https://github.com/leezicai/PixelClock
+	- 时钟PCB其他元件
+		- 还需要购买一个XH2.54 6p单排针
+		- 4.7 K电阻2个
+			- 购买链接
+				- http://e.tb.cn/h.gzps2HaYJLGDEei?tk=XmjD3psOLCW
+			- 与主板电阻可在同一家购买
+		- 电容0.1UF(100NF) 0805规格
+			- 购买链接
+				- http://e.tb.cn/h.gzKg7MxuZZl866S?tk=rxvv3pH18ln
+				- http://e.tb.cn/h.gALhgjuPGuM3BqL?tk=xlOG3pH1rT5
+		- 2032纽扣电池
+			- 购买链接
+				- http://e.tb.cn/h.gzK85lbgXMShcO8?tk=H4am3pHVJ5J
+				- http://e.tb.cn/h.gzKjO4GdG1ti1mj?tk=DHkN3pHVCLw
+		- 2032卧式电池座
+			- 购买链接
+				- http://e.tb.cn/h.gAdz87BvMHOwsJG?tk=8gxp3ptbtMp
+- 感谢免费打板
+	- 嘉立创 www.jlc.com
+	- 捷配 www.jiepei.com
+
+### 主控制PCB
+- 尺寸48mm * 95.8 mm
+- 10元
+- 随外壳一起发货
+
+### 主板元件
+- ESP32-C3开发版
+	- 排针样式
+		- 可以是已焊排
+			- ![ESP32C3](../../Imags/ESP32-C3.PNG)
+		- 也可以是未焊接排针
+	- 简约款(或经典款)都可
+	- 15元 左右
+	- 购买地址(与MAX9814同一家)
+		- http://e.tb.cn/h.gvevOmTmyWt9uIH?tk=9Sv23l7kV6M
+- MAX9814 麦克风模块 10元左右
+	- 购买链接(与ESP32-C3同一家)
+		- http://e.tb.cn/h.gAoFfx7P87hUUPc?tk=YvVt3psnMu7
+- 连接器
+	- 可在同一家购买节省运费
+		- 共10元左右
+	- 连接器直针XH2.54mm
+		- 2P
+			- 需要4个
+			- 1 元/50个
+		- 3P
+			- 需要1个
+			- 1.5 元/50个
+		- 4P
+			- 需要1个
+			- 1.5 元/50个
+		- 购买链接
+			- http://e.tb.cn/h.TbalOyOKYSqHAxC?tk=3OUt3rmWAAD
+			- http://e.tb.cn/h.TbamdPlAQB5P1gm?tk=iUZ23rmWfdN
+	- 连接器直针PH2.0mm
+		- 6P
+			- 需要1个
+			- 2 元/50个
+		- 购买链接
+			- http://e.tb.cn/h.Tbkmg8BHE0frWfR?tk=UleW3rm3YQI
+			- http://e.tb.cn/h.T0mjJxERBNXNHOW?tk=omwL3rm3ZKp
+- 单排母
+	- XH2.54 单排母
+		- 16P 共 2个
+		- 5P 共1个
+		- 6P 共1个
+	- 排母是无法拼接的
+	- 购买链接
+		- http://e.tb.cn/h.gzpMhNC8jUeP1bg?tk=Az6Y3psjh8e
+		- http://e.tb.cn/h.gzGB6deup0PElQk?tk=L9h43psPevd
+- 电阻
+	- 贴片电阻封装都是0805规格
+	- 电阻10k * 1, 规格0805, 2元/100个
+	- 电阻5.1k * 2, 规格0805, 2元/100个
+	- 购买链接
+		- http://e.tb.cn/h.gzps2HaYJLGDEei?tk=XmjD3psOLCW
+- 矮体 无源蜂鸣器 16欧
+	- 矮体无源蜂鸣器  2元/5个
+	- 蜂鸣器高6.5mm 引脚长5mm 
+	- 购买链接
+		- http://e.tb.cn/h.gAoGA3yIERAG2K7?tk=V4Gm3psOsa0
+- 光敏电阻 GL5506
+	- 购买链接
+		- http://e.tb.cn/h.gzuhkMjOi7pTMcI?tk=UR0q3psvtm5
+		- http://e.tb.cn/h.gzu7TEi6e7q3FO2?tk=F04A3pswS5r
+- 备用降压元件(非必须, 可以不买)
+	- ESP32-C3上的芯片损坏才需要购买
+	- AMS1117 3.3 
+	- 10UF 共2个
+		- 0805 贴片电容
+	- 100nF 共2个
+		- 0805 贴片电容
+
+### 其他
+- 胶水
+	- 706胶水4元左右
+	- 购买链接
+		- http://e.tb.cn/h.gAKPA8u4wTlFgcw?tk=LTTY3pGf7Tg
+		- http://e.tb.cn/h.gzJL9RcuIhBcsW4?tk=PzSf3pG56XO
+- 平头螺丝
+	- M1.6 * 5 * 3 (直径 杆长 头部宽)
+		- 至少4个
+	- M1.6 * 4 * 3 (直径 杆长 头部宽)
+		- 至少2个
+	- 购买链接
+		- http://e.tb.cn/h.gAKO8dF8JzsEzHD?tk=BcFE3pGTY1Z
+- 通孔铜螺母 
+	- M1.6 * 3 * 2.5 (内径 高度 外径)
+		- 至少4个
+	- M1.6 * 2 * 2.5 (内径 高度 外径)
+		- 至少2个
+	- 购买链接
+		- http://e.tb.cn/h.gzvBtS6vDwK0Z6Y?tk=9ckT3pGh8yB
+		- http://e.tb.cn/h.gA35IraFTBRTfTQ?tk=OATE3pGhsek
+- 金属开关
+	- 平头圆形白灯 自锁 16mm * 1个, 5元/个
+		- 3-9v
+		- 圆形白灯
+		- 平头
+		- 自锁
+		- (也能选择其他颜色的灯)
+		- 购买链接
+			- http://e.tb.cn/h.Tag7UoGmHYkv9hw?tk=gBH33KRThzy
+	- 不带灯 高头 复位 12mm * 3个, 2元/个
+		- 3-6v
+		- 无灯 不带线
+		- 高头
+		- 复位
+		- 购买链接
+			- http://e.tb.cn/h.TagmjZl4DYbqjdS?tk=KlbJ3KRkQia
+- 端子线
+	- XH2.54mm  2P端子线 
+		- 4个
+		- 单头
+		- 15CM
+	- XH2.54mm  3P端子线 
+		- 1个
+		- 单头
+		- 15CM
+	- XH2.54mm  4P端子线 
+		- 1个
+		- 单头
+		- 15CM
+	- 24AWG或22AWG都可
+	- 总共10元以内
+	- 购买链接
+		- http://e.tb.cn/h.TagFiOAiQWdTG19?tk=a7Pj3KRu4s0
+		- http://e.tb.cn/h.TagwaZb8jEw0Rft?tk=883D3KRFcP6
+		- http://e.tb.cn/h.gAkW7z9D8eW3hdc?tk=E5lF3KRoiqK
+- 双头镀锡线
+	- 5cm 厘米
+		- 22AWG或24AWG
+		- 单一颜色即可
+		- 3元 / 100根
+- Type-C母座
+	- 因为是嵌入在外壳上, 尺寸限制, 只能购买链接中的
+	- 6P
+	- 注胶直压
+	- 带PH2.0端子
+	- 购买链接
+		- http://e.tb.cn/h.T0mSW74ap4CY15t?tk=esbv3rmYrzO
+- 助焊膏
+	- 非必须
+	- 10ml
+	- 我的买YG-338
+	- 10元左右
+	- 购买链接
+		- http://e.tb.cn/h.T0mQIWl8MRiTzi4?tk=POrN3rmeLOt
+- 螺丝刀
+	- PH0 螺丝刀
+	- 或1.5mm  十字螺丝刀
+	- 购买链接
+		- http://e.tb.cn/h.TbaMvW8cd7abp3W?tk=Ch893rm4mTN
+- 美术刀
+	- 剪均光纸
+	- 6元左右
+- 剪刀
+	- 剪光敏电阻引脚
+- 镊子
+	- 静电镊子
+	- 5元左右
+	- 购买链接
+		- http://e.tb.cn/h.T0mlsP0vCbDvjPT?tk=JHYw3rmUqhE 
+- 无铅锡丝(或有铅锡丝)
+	- 20克以上
+	- 20元左右
+	- 购买链接
+		- http://e.tb.cn/h.TbapEWEPgezJtuC?tk=sbCy3rmgSDw 
+- 杜邦线 * 10根
+	- 作用: 测试灯珠使用
+	- 15CM
+	- 公对母
+	- 3元/30根
+	- 购买链接
+		- http://e.tb.cn/h.T0mmPHsBM8MVS6h?tk=07ev3rmT177
+- 美纹胶
+	- 非必须
+	- 作用: 粘亚克力板时防止涂到外壳上
+	- 5元 / 卷
+- 口罩
+	- 防止吸入锡烟
+- 电脑浏览器
+	- 写入固件使用
+
+### 电烙铁参考
+- 作用: 焊接和压入螺母
+- 电烙铁(外热式) 15元左右
+- 电烙铁(内热式) 30元左右
+- T12 电烙铁 120元左右
