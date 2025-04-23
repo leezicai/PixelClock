@@ -1,0 +1,312 @@
+# PixelClock G2 (Part 1)
+Materials and Tools
+
+## Table of Contents
+
+### About Purchase Links
+- Xianyu link is me, welcome to buy the shell
+- Taobao links are all merchants
+	- For reference only
+	- Cannot distinguish between counterfeit chips or disassembled chips
+	- Cannot distinguish quality
+	- Can only say it works and is cheap
+
+### Shell (Includes shell, grille, back cover)
+- Shell
+	- Shell size 200 * 45 * 55mm (Length * Width * Height)
+	- Can install 192mm*48mm light board
+- Black grille
+- Back cover style
+	- Default back cover
+- Assembly aid frame (optional)
+	- Function 1: Balances when pressing nuts
+	- Function 2: Fixes acrylic sheets with adhesive applied
+- MakeWorld Address
+	- Two types of shells, choose freely. Commercial use prohibited, free for personal use.
+	- https://linkqr.org/lizicai/pixelclock-g2-3d-1
+	- https://linkqr.org/lizicai/pixelclock-g2-3d-2
+- Xianyu Purchase Address
+	- https://linkqr.org/lizicai/pixelclock-g2-xianyu-shell
+	- https://linkqr.org/lizicai/pixelclock-g2-xianyu-shell-2
+
+### Acrylic Sheet
+- 193.4 * 49.4 * 1.5mm (Length * Width * Height), light black-gray transparent (or gray transparent)
+- Do not buy black transparent acrylic sheets, the LEDs will be very dim after installation
+- Around 10 yuan
+- Xianyu Purchase Address
+	- https://linkqr.org/lizicai/pixelclock-g2-xianyu-yakeli
+
+### Diffuser Paper
+- 193.4 * 49.4
+- Diffuser film, around 10 yuan. Model is LGT075-J
+- Or A4 paper (may turn yellow after prolonged use)
+- Or car film, around 10 yuan
+- When purchasing the shell or acrylic sheet, we will include pre-cut diffuser film
+
+### LED Board and LED PCB
+- Soldered LEDs and LED board
+	- Purchase Address
+		- https://linkqr.org/lizicai/pixelclock-g2-xianyu-pixel-16-8
+- LEDs WS2812B Programmable 35*28 package addressable LEDs, at least 256 pieces
+	- 0.08*270 = around 21.6 yuan
+	- Purchase Address
+		- http://e.tb.cn/h.T3hHdYBXYXhUKcF?tk=Or1N3v6kNsx
+- LED Board PCB 96mm*48mm, two pieces (each piece can install 16*8 = 128 LEDs)
+	- Free sample
+- LED Board Soldering Tools
+	- Medium temperature (or high temperature) syringe solder paste
+		- ![Medium Temperature Solder Paste - Xianyu](../../Imags/中温锡膏.jpg)
+		- (Lead-free solder paste can be used if conditions allow, the picture above is an example of syringe solder paste)
+		- Lead-free medium temperature syringe solder paste price around 35 yuan (approx. 50 grams)
+		- Syringe solder paste needs to be purchased without a stencil
+		- Syringe or bottled can be used with a stencil
+		- Purchase Link
+			- http://e.tb.cn/h.T0mzJe1TWx3MyVd?tk=5OpI3rmIcAk
+	- Heating plate (or heating station)
+		- Deer Fairy heating plate (around 20 yuan, slightly unsafe, heats up quickly 1-2 minutes)
+			- Purchase Link
+				- http://e.tb.cn/h.TbZ1L4Rr1wKeb43?tk=PYku3rmrEzL
+		- Or digital display heating station (around 140 yuan, safe, heats up in 5 minutes)
+		-
+	- Solder dispensing
+		- Manually dispense solder paste to the 4 contact points of each LED
+		- Or stencil 10cm * 10cm, 0.18 or 0.2 mm thick (around 20 yuan)
+			- Xianyu Purchase Address
+				- https://linkqr.org/lizicai/pixelclock-g2-xianyu-net-3d
+		- Stencil fixing stand also available for 8 yuan/piece
+- PCB Address and Gerber Files
+	- LICHUANG Open Source PCB Address
+		- https://oshwhub.com/lixiaoming1988/pixelclock-pixel-clock-2nd-generation-pix25
+	- Gerber File Download (in the Gerber/PixelClock_G2 folder)
+		- https://gitee.com/leezicai/PixelClock
+		- https://github.com/leezicai/PixelClock
+
+### Clock PCB
+- 2 types, can be fabricated and soldered yourself, or purchase a clock module directly from Taobao
+- Purchase DS3231 module from Taobao
+	- Module model is usually DS3231M
+	- Also need to purchase one XH2.54 4P header
+	- DS3231M is slightly less accurate than DS3231N, difference is small
+	- Purchase Address
+		- http://e.tb.cn/h.gzpvy4a4r47VCCz?tk=G0Uj3pspjBL
+		- http://e.tb.cn/h.gAoD3oImgykuJVj?tk=p6cw3psLnGA
+- Solder yourself
+	- DS3231SN
+		- Purchase Address
+			- http://e.tb.cn/h.gzu57b2LKEorWuZ?tk=Jx6K3psHzju
+			- http://e.tb.cn/h.gA2KyqGkF2fyG6s?tk=V8qo3psuYcI
+			- http://e.tb.cn/h.gA2qocg4gG3hzhY?tk=kVTp3psup0S
+	- Clock PCB
+		- Gerber File Download (in the Gerber/PixelClock_G2 folder)
+			- https://gitee.com/leezicai/PixelClock
+			- https://github.com/leezicai/PixelClock
+	- Other Components for Clock PCB
+		- Also need to purchase one XH2.54 6p single row header
+		- 4.7 K resistors, 2 pieces
+			- Purchase Link
+				- http://e.tb.cn/h.gzps2HaYJLGDEei?tk=XmjD3psOLCW
+			- Can be purchased from the same store as the main board resistors
+		- Capacitor 0.1UF (100NF) 0805 package
+			- Purchase Link
+				- http://e.tb.cn/h.gzKg7MxuZZl866S?tk=rxvv3pH18ln
+				- http://e.tb.cn/h.gALhgjuPGuM3BqL?tk=xlOG3pH1rT5
+		- 2032 button cell battery
+			- Purchase Link
+				- http://e.tb.cn/h.gzK85lbgXMShcO8?tk=H4am3pHVJ5J
+				- http://e.tb.cn/h.gzKjO4GdG1ti1mj?tk=DHkN3pHVCLw
+		- 2032 horizontal battery holder
+			- Purchase Link
+				- http://e.tb.cn/h.gAdz87BvMHOwsJG?tk=8gxp3ptbtMp
+- Thanks for Free PCB Fabrication
+	- JialiChuang www.jlc.com
+	- JiePei www.jiepei.com
+
+### Main Control PCB
+- Size 48mm * 95.8 mm
+- 10 yuan
+- Shipped together with the shell
+
+### Main Board Components
+- ESP32-C3 Development Board
+	- Header style
+		- Can be pre-soldered headers
+			- ![ESP32-C3](../../Imags/ESP32-C3.PNG)
+		- Can also be unsoldered headers
+	- Simple version (or classic version) are both okay
+	- Around 15 yuan
+	- Purchase Address (same store as MAX9814)
+		- http://e.tb.cn/h.gvevOmTmyWt9uIH?tk=9Sv23l7kV6M
+- MAX9814 Microphone Module, around 10 yuan
+	- Purchase Link (same store as ESP32-C3)
+		- http://e.tb.cn/h.gAoFfx7P87hUUPc?tk=YvVt3psnMu7
+- Connectors
+	- Can be purchased from the same store to save shipping costs
+		- Total around 10 yuan
+	- Connector Straight Pin XH2.54mm
+		- 2P
+			- Need 4
+			- 1 yuan / 50 pieces
+		- 3P
+			- Need 1
+			- 1.5 yuan / 50 pieces
+		- 4P
+			- Need 1
+			- 1.5 yuan / 50 pieces
+		- Purchase Link
+			- http://e.tb.cn/h.TbalOyOKYSqHAxC?tk=3OUt3rmWAAD
+			- http://e.tb.cn/h.TbamdPlAQB5P1gm?tk=iUZ23rmWfdN
+	- Connector Straight Pin PH2.0mm
+		- 6P
+			- Need 1
+			- 2 yuan / 50 pieces
+		- Purchase Link
+			- http://e.tb.cn/h.Tbkmg8BHE0frWfR?tk=UleW3rm3YQI
+			- http://e.tb.cn/h.T0mjJxERBNXNHOW?tk=omwL3rm3ZKp
+- Single Row Female Header
+	- XH2.54 Single Row Female Header
+		- 16P Total 2 pieces
+		- 5P Total 1 piece
+		- 6P Total 1 piece
+	- Female headers cannot be spliced
+	- Purchase Link
+		- http://e.tb.cn/h.gzpMhNC8jUeP1bg?tk=Az6Y3psjh8e
+		- http://e.tb.cn/h.gzGB6deup0PElQk?tk=L9h43psPevd
+- Resistors
+	- SMD resistor package is all 0805 size
+	- Resistor 10k * 1, 0805 size, 2 yuan / 100 pieces
+	- Resistor 5.1k * 2, 0805 size, 2 yuan / 100 pieces
+	- Purchase Link
+		- http://e.tb.cn/h.gzps2HaYJLGDEei?tk=XmjD3psOLCW
+- Short Passive Buzzer 16 ohm
+	- Short passive buzzer, 2 yuan / 5 pieces
+	- Buzzer height 6.5mm, pin length 5mm
+	- Purchase Link
+		- http://e.tb.cn/h.gAoGA3yIERAG2K7?tk=V4Gm3psOsa0
+- Photoresistor GL5506
+	- Purchase Link
+		- http://e.tb.cn/h.gzuhkMjOi7pTMcI?tk=UR0q3psvtm5
+		- http://e.tb.cn/h.gzu7TEi6e7q3FO2?tk=F04A3pswS5r
+- Spare Buck Component (optional, can choose not to buy)
+	- Only needs to be purchased if the chip on the ESP32-C3 is damaged
+	- AMS1117 3.3
+	- 10UF Total 2 pieces
+		- 0805 SMD capacitor
+	- 100nF Total 2 pieces
+		- 0805 SMD capacitor
+
+### Other
+- Glue
+	- 706 glue, around 4 yuan
+	- Purchase Link
+		- http://e.tb.cn/h.gAKPA8u4wTlFgcw?tk=LTTY3pGf7Tg
+		- http://e.tb.cn/h.gzJL9RcuIhBcsW4?tk=PzSf3pG56XO
+- Flat Head Screws
+	- M1.6 * 5 * 3 (Diameter * Length * Head Width)
+		- At least 4 pieces
+	- M1.6 * 4 * 3 (Diameter * Length * Head Width)
+		- At least 2 pieces
+	- Purchase Link
+		- http://e.tb.cn/h.gAKO8dF8JzsEzHD?tk=BcFE3pGTY1Z
+- Through-hole Copper Nuts
+	- M1.6 * 3 * 2.5 (Inner Diameter * Height * Outer Diameter)
+		- At least 4 pieces
+	- M1.6 * 2 * 2.5 (Inner Diameter * Height * Outer Diameter)
+		- At least 2 pieces
+	- Purchase Link
+		- http://e.tb.cn/h.gzvBtS6vDwK0Z6Y?tk=9ckT3pGh8yB
+		- http://e.tb.cn/h.gA35IraFTBRTfTQ?tk=OATE3pGhsek
+- Metal Switch
+	- Flat head round white LED self-locking 16mm * 1 piece, 5 yuan/piece
+		- 3-9v
+		- Round white LED
+		- Flat head
+		- Self-locking
+		- (Other LED colors can also be chosen)
+		- Purchase Link
+			- http://e.tb.cn/h.Tag7UoGmHYkv9hw?tk=gBH33KRThzy
+	- No light high head momentary 12mm * 3 pieces, 2 yuan/piece
+		- 3-6v
+		- No light, no wire
+		- High head
+		- Momentary
+		- Purchase Link
+			- http://e.tb.cn/h.TagmjZl4DYbqjdS?tk=KlbJ3KRkQia
+- Terminal Wires
+	- XH2.54mm 2P terminal wire
+		- 4 pieces
+		- Single end
+		- 15CM
+	- XH2.54mm 3P terminal wire
+		- 1 piece
+		- Single end
+		- 15CM
+	- XH2.54mm 4P terminal wire
+		- 1 piece
+		- Single end
+		- 15CM
+	- 24AWG or 22AWG are both okay
+	- Total within 10 yuan
+	- Purchase Link
+		- http://e.tb.cn/h.TagFiOAiQWdTG19?tk=a7Pj3KRu4s0
+		- http://e.tb.cn/h.TagwaZb8jEw0Rft?tk=883D3KRFcP6
+		- http://e.tb.cn/h.gAkW7z9D8eW3hdc?tk=E5lF3KRoiqK
+- Double-ended Tinned Wire
+	- 5cm centimeters
+		- 22AWG or 24AWG
+		- Single color is fine
+		- 3 yuan / 100 pieces
+- Type-C Female Connector
+	- Because it is embedded in the shell, due to size constraints, only the one in the link can be purchased
+	- 6P
+	- Potted direct press
+	- With PH2.0 terminal
+	- Purchase Link
+		- http://e.tb.cn/h.T0mSW74ap4CY15t?tk=esbv3rmYrzO
+- Solder Paste (Flux)
+	- Optional
+	- 10ml
+	- Mine is YG-338
+	- Around 10 yuan
+	- Purchase Link
+		- http://e.tb.cn/h.T0mQIWl8MRiTzi4?tk=POrN3rmeLOt
+- Screwdriver
+	- PH0 screwdriver
+	- Or 1.5mm Phillips screwdriver
+	- Purchase Link
+		- http://e.tb.cn/h.TbaMvW8cd7abp3W?tk=Ch893rm4mTN
+- Utility Knife
+	- For cutting diffuser paper
+	- Around 6 yuan
+- Scissors
+	- For cutting photoresistor leads
+- Tweezers
+	- Anti-static tweezers
+	- Around 5 yuan
+	- Purchase Link
+		- http://e.tb.cn/h.T0mlsP0vCbDvjPT?tk=JHYw3rmUqhE
+- Lead-free Solder Wire (or leaded solder wire)
+	- 20 grams or more
+	- Around 20 yuan
+	- Purchase Link
+		- http://e.tb.cn/h.TbapEWEPgezJtuC?tk=sbCy3rmgSDw
+- Dupont Wires * 10 pieces
+	- Purpose: For testing LEDs
+	- 15CM
+	- Male to female
+	- 3 yuan / 30 pieces
+	- Purchase Link
+		- http://e.tb.cn/h.T0mmPHsBM8MVS6h?tk=07ev3rmT177
+- Masking Tape
+	- Optional
+	- Purpose: Prevents adhesive from getting on the shell when gluing acrylic sheet
+	- 5 yuan / roll
+- Mask
+	- Prevents inhalation of solder smoke
+- Computer Browser
+	- For writing firmware
+
+### Soldering Iron Reference
+- Purpose: Soldering and pressing in nuts
+- Soldering iron (external heating type) around 15 yuan
+- Soldering iron (internal heating type) around 30 yuan
+- T12 Soldering Iron around 120 yuan
