@@ -2,6 +2,8 @@
 
 ![PixelClock2](Imags/pixelclock2.gif)
 
+## [中文版本](readme.md) [English Version](readme_en.md) [日語版本](readme_jp.md) [繁體版本](readme_zh_tc.md) 
+
 #### PixelClock 像素时钟是一款使用ESP32-C3、32x8像素屏、拾音模块、蜂鸣器组装的，具备显示时间 、音乐拾音、闹钟、像素动画功能。
 
 ## 全部开源(模型 PCB 代码开源) 禁止商用, 个人免费
