@@ -14,8 +14,9 @@
 
 #### [PixelClock G2 像素时钟 2 有底座款外壳 来自 李子菜 - MakerWorld](https://makerworld.com.cn/zh/models/1124178)
 
-## PCB开源地址
+## Gerber文件,PCB开源地址
 
+#### [Gerber文件](Gerber/PixelClock_G2/)
 #### [PixelClock像素时钟(二代) Pix25 - 立创开源硬件平台](https://oshwhub.com/lixiaoming1988/pixelclock-pixel-clock-2nd-generation-pix25)
 
 ## 像素时钟代码
